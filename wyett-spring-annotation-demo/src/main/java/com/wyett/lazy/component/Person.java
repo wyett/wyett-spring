@@ -1,8 +1,8 @@
-package com.wyett.xmlbean;
+package com.wyett.lazy.component;
 
 /**
  * @author : wyettLei
- * @date : Created in 2020/5/18 18:37
+ * @date : Created in 2020/5/19 15:32
  * @description: TODO
  */
 

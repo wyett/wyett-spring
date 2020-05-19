@@ -1,4 +1,4 @@
-package com.wyett.xmlbean;
+package com.wyett.bean1xml;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

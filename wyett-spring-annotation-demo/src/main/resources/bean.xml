@@ -4,5 +4,5 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="person" class="com.wyett.bean1xml.Person"></bean>
+    <bean id="dog" class="com.wyett.bean5factorybean.Dog"></bean>
 </beans>

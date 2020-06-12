@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>wyett-spring-annotation-demo</module>
+        <module>wyett-spring-extended-demo</module>
     </modules>
 
 
